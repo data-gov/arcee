@@ -1,0 +1,338 @@
+{
+  "data" : {
+    "lookups" : [
+      "keywords"
+    ],
+    "name" : "president",
+    "lang" : "pt",
+    "exotic" : false,
+    "id" : "president",
+    "values" : [
+      {
+        "value" : "ALFREDO HELIO SYRKIS",
+        "metadata" : "ALFREDO_HÉLIO_SYRKIS",
+        "expressions" : [
+          "ALFREDO",
+          "ALFREDO SYRKIS",
+          "HÉLIO",
+          "SYRKIS"
+        ]
+      },
+      {
+        "value" : "ANA MARIA TEIXEIRA RANGEL",
+        "metadata" : "ANA_MARIA_TEIXEIRA_RANGEL",
+        "expressions" : [
+          "ANA",
+          "ANA MARIA RANGEL",
+          "MARIA",
+          "RANGEL",
+          "TEIXEIRA"
+        ]
+      },
+      {
+        "value" : "ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA",
+        "metadata" : "ANTHONY_WILLIAM_GAROTINHO_MATHEUS_DE_OLIVEIRA",
+        "expressions" : [
+          "ANTHONY",
+          "ANTHONY GAROTINHO",
+          "ANTONY GAROTINHO",
+          "GAROTINHO",
+          "MATHEUS",
+          "OLIVEIRA",
+          "WILLIAM"
+        ]
+      },
+      {
+        "value" : "AÉCIO NEVES DA CUNHA",
+        "metadata" : "AÉCIO_NEVES_DA_CUNHA",
+        "expressions" : [
+          "AECIO",
+          "AECIO NEVES",
+          "AÉCIO",
+          "AÉCIO NEVES",
+          "CUNHA",
+          "NEVES"
+        ]
+      },
+      {
+        "value" : "CIRO FERREIRA GOMES",
+        "metadata" : "CIRO_FERREIRA_GOMES",
+        "expressions" : [
+          "CIRO",
+          "CIRO GOMES",
+          "FERREIRA",
+          "GOMES"
+        ]
+      },
+      {
+        "value" : "CRISTOVAM RICARDO CALVACANTI BUARQUE",
+        "metadata" : "CRISTOVAM_RICARDO_CALVACANTI_BUARQUE",
+        "expressions" : [
+          "BUARQUE",
+          "CALVACANTI",
+          "CRISTOVAM",
+          "CRISTOVAM BUARQUE",
+          "RICARDO"
+        ]
+      },
+      {
+        "value" : "DILMA VANA ROUSSEFF",
+        "metadata" : "DILMA_VANA_ROUSSEFF",
+        "expressions" : [
+          "DILMA",
+          "DILMA ROUSSEFF",
+          "DILMA VANA ROUSSEF",
+          "ROUSSEFF",
+          "VANA",
+          "diuma rusef"
+        ]
+      },
+      {
+        "value" : "EDUARDO JORGE MARTINS ALVES SOBRINHO",
+        "metadata" : "EDUARDO_JORGE_MARTINS_ALVES_SOBRINHO",
+        "expressions" : [
+          "ALVES",
+          "EDUARDO JORGE",
+          "MARTINS",
+          "SOBRINHO"
+        ]
+      },
+      {
+        "value" : "ENÉAS FERREIRA CARNEIRO",
+        "metadata" : "ENÉAS_FERREIRA_CARNEIRO",
+        "expressions" : [
+          "CARNEIRO",
+          "ENEAS",
+          "ENÉAS",
+          "ENÉAS CARNEIRO",
+          "FERREIRA"
+        ]
+      },
+      {
+        "value" : "EVERALDO DIAS PEREIRA",
+        "metadata" : "EVERALDO_DIAS_PEREIRA",
+        "expressions" : [
+          "DIAS",
+          "EVERALDO",
+          "PASTOR EVERALDO",
+          "PEREIRA"
+        ]
+      },
+      {
+        "value" : "FERNANDO HENRIQUE CARDOSO",
+        "metadata" : "FERNANDO_HENRIQUE_CARDOSO",
+        "expressions" : [
+          "CARDOSO",
+          "FERNANDO",
+          "FERNANDO HENRIQUE",
+          "FHC",
+          "HENRIQUE"
+        ]
+      },
+      {
+        "value" : "GERALDO JOSÉ RODRIGUES ALCKMIN FILHO",
+        "metadata" : "GERALDO_JOSÉ_RODRIGUES_ALCKMIN_FILHO",
+        "expressions" : [
+          "ALCKMIN",
+          "FILHO",
+          "GERALDO",
+          "GERALDO ALCKMIN",
+          "JOSÉ",
+          "RODRIGUES",
+          "alquimim"
+        ]
+      },
+      {
+        "value" : "HELOÍSA HELENA LIMA DE MORAES CARVALHO",
+        "metadata" : "HELOÍSA_HELENA_LIMA_DE_MORAES_CARVALHO",
+        "expressions" : [
+          "CARVALHO",
+          "HELENA",
+          "HELOISA HELENA",
+          "HELOÍSA",
+          "HELOÍSA HELENA",
+          "LIMA",
+          "MORAES"
+        ]
+      },
+      {
+        "value" : "IVAN MARTINS PINHEIRO",
+        "metadata" : "IVAN_MARTINS_PINHEIRO",
+        "expressions" : [
+          "IVAN",
+          "IVAN PINHEIRO",
+          "MARTINS",
+          "PINHEIRO"
+        ]
+      },
+      {
+        "value" : "IVAN MOACYR DA FROTA",
+        "metadata" : "IVAN_MOACYR_DA_FROTA",
+        "expressions" : [
+          "FROTA",
+          "IVAN",
+          "IVAN FROTA",
+          "Ivan Moacyr",
+          "MOACYR"
+        ]
+      },
+      {
+        "value" : "JOSÉ LEVY FIDELIX DA CRUZ",
+        "metadata" : "JOSÉ_LEVY_FIDELIX_DA_CRUZ",
+        "expressions" : [
+          "CRUZ",
+          "FIDELIX",
+          "JOSÉ",
+          "LEVY",
+          "LEVY FIDELIX"
+        ]
+      },
+      {
+        "value" : "JOSÉ MARIA DE ALMEIDA",
+        "metadata" : "JOSÉ_MARIA_DE_ALMEIDA",
+        "expressions" : [
+          "ALMEIDA",
+          "JOSÉ",
+          "MARIA",
+          "ZE MARIA",
+          "ZÉ MARIA"
+        ]
+      },
+      {
+        "value" : "JOSÉ MARIA EYMAEL",
+        "metadata" : "JOSÉ_MARIA_EYMAEL",
+        "expressions" : [
+          "EYMAEL",
+          "JOSÉ",
+          "MARIA"
+        ]
+      },
+      {
+        "value" : "JOSÉ SERRA",
+        "metadata" : "JOSÉ_SERRA",
+        "expressions" : [
+          "JOSÉ",
+          "SERRA"
+        ]
+      },
+      {
+        "value" : "JOÃO DE DEUS BARBOSA DE JESUS",
+        "metadata" : "JOÃO_DE_DEUS_BARBOSA_DE_JESUS",
+        "expressions" : [
+          "BARBOSA",
+          "DEUS",
+          "JESUS",
+          "JOAO DE DEUS",
+          "JOÃO",
+          "JOÃO DE DEUS"
+        ]
+      },
+      {
+        "value" : "LUCIANA KREBS GENRO",
+        "metadata" : "LUCIANA_KREBS_GENRO",
+        "expressions" : [
+          "GENRO",
+          "KREBS",
+          "LUCIANA",
+          "LUCIANA GENRO"
+        ]
+      },
+      {
+        "value" : "LUCIANO CALDAS BIVAR",
+        "metadata" : "LUCIANO_CALDAS_BIVAR",
+        "expressions" : [
+          "BIVAR",
+          "CALDAS",
+          "LUCIANO",
+          "LUCIANO BIVAR"
+        ]
+      },
+      {
+        "value" : "LUIZ INACIO LULA DA SILVA",
+        "metadata" : "LUIZ_INACIO_LULA_DA_SILVA",
+        "expressions" : [
+          "INACIO",
+          "LUIZ",
+          "LULA",
+          "SILVA"
+        ]
+      },
+      {
+        "value" : "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+        "metadata" : "MARIA_OSMARINA_MARINA_DA_SILVA_VAZ_DE_LIMA",
+        "expressions" : [
+          "LIMA",
+          "MARIA",
+          "MARINA",
+          "MARINA SILVA",
+          "OSMARINA",
+          "SILVA",
+          "VAZ"
+        ]
+      },
+      {
+        "value" : "MAURO LUIS IASI",
+        "metadata" : "MAURO_LUÍS_IASI",
+        "expressions" : [
+          "IASI",
+          "LUÍS",
+          "MAURO",
+          "MAURO IASI"
+        ]
+      },
+      {
+        "value" : "PLINIO SOARES DE ARRUDA SAMPAIO",
+        "metadata" : "PLÍNIO_SOARES_DE_ARRUDA_SAMPAIO",
+        "expressions" : [
+          "ARRUDA",
+          "PLINIO",
+          "PLINIO ARRUDA SAMPAIO",
+          "PLÍNIO",
+          "PLÍNIO ARRUDA",
+          "PLÍNIO ARRUDA SAMPAIO",
+          "SAMPAIO"
+        ]
+      },
+      {
+        "value" : "RUI COSTA PIMENTA",
+        "metadata" : "RUI_COSTA_PIMENTA",
+        "expressions" : [
+          "COSTA",
+          "PIMENTA",
+          "RUI",
+          "RUI PIMENTA"
+        ]
+      },
+      {
+        "value" : "SERGIO BUENO",
+        "metadata" : "SERGIO_BUENO",
+        "expressions" : [
+          "BUENO",
+          "SERGIO"
+        ]
+      },
+      {
+        "value" : "THEREZA TINAJERO RUIZ",
+        "metadata" : "THEREZA_TINAJERO_RUIZ",
+        "expressions" : [
+          "RUIZ",
+          "TEREZA RUIZ",
+          "THEREZA",
+          "THEREZA RUIZ",
+          "TINAJERO"
+        ]
+      },
+      {
+        "value" : "VASCO AZEVEDO NETO",
+        "metadata" : "VASCO_AZEVEDO_NETO",
+        "expressions" : [
+          "AZEVEDO",
+          "NETO",
+          "VASCO"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data" : {
+    "lookups" : [
+      "keywords"
+    ],
+    "name" : "findCandidateVotesInAYearByNameAndState",
+    "lang" : "pt",
+    "exotic" : false,
+    "id" : "findCandidateVotesInAYearByNameAndState",
+    "values" : [
+      {
+        "value" : "Quantos votos",
+        "expressions" : [
+          "Quantos votos"
+        ]
+      },
+      {
+        "value" : "numero de votos",
+        "expressions" : [
+          "numero de votos"
+        ]
+      },
+      {
+        "value" : "quantidade de votos",
+        "expressions" : [
+          "quantidade de votos"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

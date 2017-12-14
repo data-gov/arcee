@@ -1,0 +1,47 @@
+{
+  "data" : {
+    "lookups" : [
+      "keywords"
+    ],
+    "name" : "mostVotedInYearByState",
+    "lang" : "pt",
+    "exotic" : false,
+    "id" : "mostVotedInYearByState",
+    "values" : [
+      {
+        "value" : "Qual foi o candidato mais votado",
+        "expressions" : [
+          "Qual foi o candidato mais votado"
+        ]
+      },
+      {
+        "value" : "mais votado no",
+        "expressions" : [
+          "mais votado no"
+        ]
+      },
+      {
+        "value" : "quem foi mais votado",
+        "expressions" : [
+          "quem foi a mais votada"
+        ]
+      },
+      {
+        "value" : "quem foi o candidato mais votado",
+        "expressions" : [
+          "quem foi o candidato mais votado"
+        ]
+      },
+      {
+        "value" : "quem recebeu mais votos",
+        "expressions" : [
+          "qual candidata recebeu mais votos",
+          "qual candidato recebeu mais votos",
+          "quem recebeu mais votos"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

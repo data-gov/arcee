@@ -1,0 +1,52 @@
+{
+  "data" : {
+    "lookups" : [
+      "keywords"
+    ],
+    "name" : "topVotingState",
+    "lang" : "pt",
+    "exotic" : false,
+    "id" : "topVotingState",
+    "values" : [
+      {
+        "value" : "Que estado votou",
+        "expressions" : [
+          "Que estado votou"
+        ]
+      },
+      {
+        "value" : "em qual estado",
+        "expressions" : [
+          "em qual estado"
+        ]
+      },
+      {
+        "value" : "mais votado em",
+        "expressions" : [
+          "mais votado em"
+        ]
+      },
+      {
+        "value" : "qual estado mais votou",
+        "expressions" : [
+          "qual estado mais votou"
+        ]
+      },
+      {
+        "value" : "qual estado votou mais",
+        "expressions" : [
+          "Qual foi o estado que mais votou",
+          "qual estado votou mais"
+        ]
+      },
+      {
+        "value" : "qual foi o estado mais votante",
+        "expressions" : [
+          "qual foi o estado mais votante"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

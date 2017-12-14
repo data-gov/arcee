@@ -1,0 +1,219 @@
+{
+  "data" : {
+    "lookups" : [
+      "keywords"
+    ],
+    "name" : "brState",
+    "lang" : "pt",
+    "exotic" : false,
+    "id" : "brState",
+    "values" : [
+      {
+        "value" : "AC",
+        "expressions" : [
+          "AC",
+          "Acre"
+        ]
+      },
+      {
+        "value" : "AL",
+        "expressions" : [
+          "AL",
+          "Alagoas"
+        ]
+      },
+      {
+        "value" : "AM",
+        "expressions" : [
+          "AM",
+          "Amazonas",
+          "Amazonia"
+        ]
+      },
+      {
+        "value" : "AP",
+        "expressions" : [
+          "AP",
+          "Amapa",
+          "Amapá"
+        ]
+      },
+      {
+        "value" : "BA",
+        "expressions" : [
+          "BA",
+          "Bahia"
+        ]
+      },
+      {
+        "value" : "CE",
+        "expressions" : [
+          "CE",
+          "Ceara",
+          "Ceará"
+        ]
+      },
+      {
+        "value" : "DF",
+        "expressions" : [
+          "Brasília",
+          "DF",
+          "Distrito Federal"
+        ]
+      },
+      {
+        "value" : "ES",
+        "expressions" : [
+          "ES",
+          "Espirito Santo",
+          "Espírito Santo",
+          "capixaba"
+        ]
+      },
+      {
+        "value" : "GO",
+        "expressions" : [
+          "GO",
+          "Goias",
+          "Goiás"
+        ]
+      },
+      {
+        "value" : "MA",
+        "expressions" : [
+          "MA",
+          "Maranhao",
+          "Maranhão"
+        ]
+      },
+      {
+        "value" : "MG",
+        "expressions" : [
+          "MG",
+          "Minas",
+          "Minas Gerais"
+        ]
+      },
+      {
+        "value" : "MS",
+        "expressions" : [
+          "MS",
+          "Mato Grosso do Sul"
+        ]
+      },
+      {
+        "value" : "MT",
+        "expressions" : [
+          "MT",
+          "Mato Grosso"
+        ]
+      },
+      {
+        "value" : "PA",
+        "expressions" : [
+          "PA",
+          "Pará"
+        ]
+      },
+      {
+        "value" : "PB",
+        "expressions" : [
+          "PB",
+          "Paraiba",
+          "Paraíba"
+        ]
+      },
+      {
+        "value" : "PE",
+        "expressions" : [
+          "PE",
+          "Pernambuco"
+        ]
+      },
+      {
+        "value" : "PI",
+        "expressions" : [
+          "PI",
+          "Piaui",
+          "Piauí"
+        ]
+      },
+      {
+        "value" : "PR",
+        "expressions" : [
+          "PR",
+          "Parana",
+          "Paraná"
+        ]
+      },
+      {
+        "value" : "RJ",
+        "expressions" : [
+          "Carioca",
+          "RJ",
+          "Rio de Janeiro"
+        ]
+      },
+      {
+        "value" : "RN",
+        "expressions" : [
+          "RN",
+          "Rio Grande do Norte"
+        ]
+      },
+      {
+        "value" : "RO",
+        "expressions" : [
+          "RO",
+          "Rondônia"
+        ]
+      },
+      {
+        "value" : "RR",
+        "expressions" : [
+          "RR",
+          "Roraima"
+        ]
+      },
+      {
+        "value" : "RS",
+        "expressions" : [
+          "RGS",
+          "RS",
+          "Rio grande do sul"
+        ]
+      },
+      {
+        "value" : "SC",
+        "expressions" : [
+          "SC",
+          "Santa Catarina"
+        ]
+      },
+      {
+        "value" : "SE",
+        "expressions" : [
+          "SE",
+          "Sergipe"
+        ]
+      },
+      {
+        "value" : "SP",
+        "expressions" : [
+          "SP",
+          "Sao Paulo",
+          "São Paulo"
+        ]
+      },
+      {
+        "value" : "TO",
+        "expressions" : [
+          "TO",
+          "Tocantins"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

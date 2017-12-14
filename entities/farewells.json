@@ -1,0 +1,70 @@
+{
+  "data" : {
+    "lookups" : [
+      "keywords"
+    ],
+    "name" : "farewells",
+    "lang" : "pt",
+    "exotic" : false,
+    "id" : "farewells",
+    "values" : [
+      {
+        "value" : "Abraço",
+        "expressions" : [
+          "Abraço",
+          "abraco",
+          "abç"
+        ]
+      },
+      {
+        "value" : "Adeus",
+        "expressions" : [
+          "Adeus",
+          "bye"
+        ]
+      },
+      {
+        "value" : "Ate logo",
+        "expressions" : [
+          "Ate logo",
+          "Até",
+          "Até mais",
+          "inte"
+        ]
+      },
+      {
+        "value" : "Até mais",
+        "expressions" : [
+          "Ate mais",
+          "Até mais"
+        ]
+      },
+      {
+        "value" : "Falou",
+        "expressions" : [
+          "Falou",
+          "falow",
+          "flw"
+        ]
+      },
+      {
+        "value" : "Tchau",
+        "expressions" : [
+          "Tchau",
+          "chau",
+          "tchao tchao",
+          "xau"
+        ]
+      },
+      {
+        "value" : "beijo",
+        "expressions" : [
+          "beijo",
+          "bjo"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

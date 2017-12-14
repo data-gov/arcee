@@ -1,0 +1,76 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text"
+    ],
+    "name" : "candidatesByRoleAndYear",
+    "lang" : "pt",
+    "exotic" : false,
+    "id" : "candidatesByRoleAndYear",
+    "values" : [
+      {
+        "value" : "Quais candidatos concorerram",
+        "expressions" : [
+          "Quais candidatos concorerram"
+        ]
+      },
+      {
+        "value" : "Quais pessoas se candidataram",
+        "expressions" : [
+          "Quais foram os candidatos",
+          "Quais pessoas se candidataram"
+        ]
+      },
+      {
+        "value" : "Qual a lista de candidatos",
+        "expressions" : [
+          "Qual a lista de candidatos"
+        ]
+      },
+      {
+        "value" : "Quem foram as candidatas",
+        "expressions" : [
+          "Quem foram as candidatas"
+        ]
+      },
+      {
+        "value" : "Quem foram as pessoas que se candidataram",
+        "expressions" : [
+          "Quem foram as pessoas que se candidataram"
+        ]
+      },
+      {
+        "value" : "Quem se candidatou",
+        "expressions" : [
+          "Quem se candidatou"
+        ]
+      },
+      {
+        "value" : "quais foram as pessoas que concorreram",
+        "expressions" : [
+          "quais foram as pessoas que concorreram"
+        ]
+      },
+      {
+        "value" : "quais foram as pessoas que se candidataram",
+        "expressions" : [
+          "quais foram as pessoas que se candidataram"
+        ]
+      },
+      {
+        "value" : "quais os candidatos",
+        "expressions" : [
+          "quais os candidatos"
+        ]
+      },
+      {
+        "value" : "quem foram os candidatos",
+        "expressions" : [
+          "quem foram os candidatos"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

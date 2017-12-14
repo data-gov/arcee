@@ -1,0 +1,37 @@
+{
+  "data" : {
+    "lookups" : [
+      "keywords"
+    ],
+    "name" : "post",
+    "lang" : "pt",
+    "exotic" : false,
+    "id" : "post",
+    "values" : [
+      {
+        "value" : "governador",
+        "expressions" : [
+          "governador"
+        ]
+      },
+      {
+        "value" : "presidente",
+        "expressions" : [
+          "governar o pais",
+          "governar o país",
+          "governo do pais",
+          "governo do país",
+          "palacio do planalto",
+          "palácio do planalto",
+          "presidencia",
+          "presidencial",
+          "presidente",
+          "presidir",
+          "presidência"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

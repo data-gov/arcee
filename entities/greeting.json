@@ -1,0 +1,65 @@
+{
+  "data" : {
+    "lookups" : [
+      "keywords"
+    ],
+    "name" : "greeting",
+    "lang" : "pt",
+    "exotic" : false,
+    "id" : "greeting",
+    "values" : [
+      {
+        "value" : "Boa noite",
+        "expressions" : [
+          "Boa noite"
+        ]
+      },
+      {
+        "value" : "Boa tarde",
+        "expressions" : [
+          "Boa tarde"
+        ]
+      },
+      {
+        "value" : "Bom dia",
+        "expressions" : [
+          "Bom dia"
+        ]
+      },
+      {
+        "value" : "E aí",
+        "expressions" : [
+          "E aí"
+        ]
+      },
+      {
+        "value" : "Oi",
+        "expressions" : [
+          "Oi"
+        ]
+      },
+      {
+        "value" : "Olá",
+        "expressions" : [
+          "Olá",
+          "oka",
+          "ola"
+        ]
+      },
+      {
+        "value" : "Tudo bem",
+        "expressions" : [
+          "Tudo bem"
+        ]
+      },
+      {
+        "value" : "Tudo bom",
+        "expressions" : [
+          "Tudo bom"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

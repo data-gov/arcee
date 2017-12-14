@@ -1,0 +1,9 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip data-gov.zip data-gov/app.json data-gov/entities/*.json data-gov/actions.json data-gov/stories.json data-gov/expressions.json",
+  "data" : {
+    "name" : "data-gov",
+    "description" : "",
+    "lang" : "pt"
+  }
+}

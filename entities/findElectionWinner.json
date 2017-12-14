@@ -1,0 +1,52 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "findElectionWinner",
+    "lang" : "pt",
+    "exotic" : false,
+    "id" : "findElectionWinner",
+    "values" : [
+      {
+        "value" : "Quem ganhou a eleicao",
+        "expressions" : [
+          "Quem ganhou a eleicao"
+        ]
+      },
+      {
+        "value" : "Quem venceu as eleicoes",
+        "expressions" : [
+          "Quem venceu as eleicoes"
+        ]
+      },
+      {
+        "value" : "Quem venceus",
+        "expressions" : [
+          "Quem venceus"
+        ]
+      },
+      {
+        "value" : "quem foi eleito",
+        "expressions" : [
+          "quem foi eleito"
+        ]
+      },
+      {
+        "value" : "quem foi o campeao das eleicoes",
+        "expressions" : [
+          "quem foi o campeao das eleicoes"
+        ]
+      },
+      {
+        "value" : "quem foi o candidato eleito",
+        "expressions" : [
+          "quem foi o candidato eleito"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

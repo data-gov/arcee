@@ -1,0 +1,1717 @@
+{
+  "data" : [
+    {
+      "text" : "\"Quantos votos Levir Fidelix teve em SP em 2014?\"",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 1,
+          "end" : 14
+        },
+        {
+          "entity" : "president",
+          "value" : "\"JOSÉ LEVY FIDELIX DA CRUZ\"",
+          "start" : 21,
+          "end" : 28
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"SP\"",
+          "start" : 37,
+          "end" : 39
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 43,
+          "end" : 47
+        }
+      ]
+    },
+    {
+      "text" : "2014"
+    },
+    {
+      "text" : "Ate mais",
+      "entities" : [
+        {
+          "entity" : "farewells",
+          "value" : "\"Até mais\"",
+          "start" : 0,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "Até mais",
+      "entities" : [
+        {
+          "entity" : "farewells",
+          "value" : "\"Até mais\"",
+          "start" : 0,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "Boa noite",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Boa noite\"",
+          "start" : 0,
+          "end" : 9
+        }
+      ]
+    },
+    {
+      "text" : "Boa tarde",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Boa tarde\"",
+          "start" : 0,
+          "end" : 9
+        }
+      ]
+    },
+    {
+      "text" : "Bom dia",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Bom dia\"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "E aí?",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"E aí\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "Ivan Martins",
+      "entities" : [
+        {
+          "entity" : "president",
+          "value" : "\"IVAN MARTINS PINHEIRO\""
+        }
+      ]
+    },
+    {
+      "text" : "Ivan Moacyr",
+      "entities" : [
+        {
+          "entity" : "president",
+          "value" : "\"IVAN MOACYR DA FROTA\"",
+          "start" : 0,
+          "end" : 11
+        }
+      ]
+    },
+    {
+      "text" : "Oi, tudo bom?",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Oi\"",
+          "start" : 0,
+          "end" : 2
+        }
+      ]
+    },
+    {
+      "text" : "Olá",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Olá\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "Quais candidatos concorerram para presidente em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quais candidatos concorerram\"",
+          "start" : 0,
+          "end" : 28
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 34,
+          "end" : 44
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 48,
+          "end" : 52
+        }
+      ]
+    },
+    {
+      "text" : "Quais candidatos concorreram para presidente em 2014?",
+      "entities" : [
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 48,
+          "end" : 52
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os candidatos a eleicao de 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quais foram os candidatos\"",
+          "start" : 0,
+          "end" : 25
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 36,
+          "end" : 43
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os candidatos a eleiçao de presidente em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quais foram os candidatos\"",
+          "start" : 0,
+          "end" : 25
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 39,
+          "end" : 49
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 53,
+          "end" : 57
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os candidatos a eleição presidencial em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quais pessoas se candidataram\"",
+          "start" : 0,
+          "end" : 25
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 36,
+          "end" : 47
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 52,
+          "end" : 56
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os candidatos a presidencia em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quais foram os candidatos\"",
+          "start" : 0,
+          "end" : 25
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 28,
+          "end" : 39
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 43,
+          "end" : 47
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os candidatos a presidencia no ano de 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quais foram os candidatos\"",
+          "start" : 0,
+          "end" : 25
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 28,
+          "end" : 39
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 47,
+          "end" : 54
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os candidatos a presidente em 1998",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quais foram os candidatos\"",
+          "start" : 0,
+          "end" : 25
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 28,
+          "end" : 38
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"1998-01-01T00:00:00.000-02:00\"",
+          "start" : 42,
+          "end" : 46
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os candidatos a presidente em 2010?",
+      "entities" : [
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 28,
+          "end" : 38
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2010-01-01T00:00:00.000-02:00\"",
+          "start" : 42,
+          "end" : 46
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os candidatos ao governo do estado do RS em 2014?",
+      "entities" : [
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 50,
+          "end" : 52
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 56,
+          "end" : 60
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os candidatos da eleicao de presidente de 1998?",
+      "entities" : [
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 40,
+          "end" : 50
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"1998-01-01T00:00:00.000-02:00\"",
+          "start" : 51,
+          "end" : 58
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os candidatos das eleicoes de 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quais foram os candidatos\"",
+          "start" : 0,
+          "end" : 25
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 39,
+          "end" : 46
+        }
+      ]
+    },
+    {
+      "text" : "Quais foram os conditatos a presidencia do brasil em 2014?",
+      "entities" : [
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 53,
+          "end" : 57
+        }
+      ]
+    },
+    {
+      "text" : "Quais pessoas se candidataram ao palacio do planalto em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quais pessoas se candidataram\"",
+          "start" : 0,
+          "end" : 29
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 33,
+          "end" : 52
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 56,
+          "end" : 60
+        }
+      ]
+    },
+    {
+      "text" : "Quais pessoas se candidataram para o cargo de presidente em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quais pessoas se candidataram\"",
+          "start" : 0,
+          "end" : 29
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 46,
+          "end" : 56
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 60,
+          "end" : 64
+        }
+      ]
+    },
+    {
+      "text" : "Qual a lista de candidatos a presidente em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Qual a lista de candidatos\"",
+          "start" : 0,
+          "end" : 26
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 29,
+          "end" : 39
+        }
+      ]
+    },
+    {
+      "text" : "Qual candidato recebeu o maior número de votos no estado do rio grande do sul?"
+    },
+    {
+      "text" : "Qual foi o candidato mais votado em sao paulo em 2014",
+      "entities" : [
+        {
+          "entity" : "mostVotedInYearByState",
+          "value" : "\"Qual foi o candidato mais votado\"",
+          "start" : 0,
+          "end" : 32
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"SP\"",
+          "start" : 36,
+          "end" : 45
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 49,
+          "end" : 53
+        }
+      ]
+    },
+    {
+      "text" : "Qual foi o estado que mais votou na DILMA VANA ROUSSEF em 2014",
+      "entities" : [
+        {
+          "entity" : "topVotingState",
+          "value" : "\"qual estado votou mais\"",
+          "start" : 0,
+          "end" : 32
+        },
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 36,
+          "end" : 54
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 58,
+          "end" : 62
+        }
+      ]
+    },
+    {
+      "text" : "Qual o candidato mais votado no RS?"
+    },
+    {
+      "text" : "Qual o candidato mais votado no rs?"
+    },
+    {
+      "text" : "Qual o numero de votos que a Dilma recebeu em SP no ano de 2014?",
+      "entities" : [
+        {
+          "entity" : "brState",
+          "value" : "\"SP\"",
+          "start" : 46,
+          "end" : 48
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 56,
+          "end" : 63
+        }
+      ]
+    },
+    {
+      "text" : "Qual o número de votos recebidos pelo Fernando Henrique Cardoso em SP no ano de 2006?",
+      "entities" : [
+        {
+          "entity" : "brState",
+          "value" : "\"SP\"",
+          "start" : 67,
+          "end" : 69
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2006-01-01T00:00:00.000-02:00\"",
+          "start" : 77,
+          "end" : 84
+        }
+      ]
+    },
+    {
+      "text" : "Qual o total de votos da dilma no rs?"
+    },
+    {
+      "text" : "Quanto votos o Aécio teve em 2014?",
+      "entities" : [
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 29,
+          "end" : 33
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos Levir Fidelix teve em SP em 2014?",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 0,
+          "end" : 13
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"SP\"",
+          "start" : 36,
+          "end" : 38
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 42,
+          "end" : 46
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos a Dilma recebeu no AC em 2014?",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 0,
+          "end" : 13
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"AC\"",
+          "start" : 33,
+          "end" : 35
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 39,
+          "end" : 43
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos a Dilma teve em 2014",
+      "entities" : [
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 30,
+          "end" : 34
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos a Dilma teve em 2014?"
+    },
+    {
+      "text" : "Quantos votos a dilma recebeu no rs?"
+    },
+    {
+      "text" : "Quantos votos a dilma teve em 2014",
+      "entities" : [
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "role" : "",
+          "start" : 30,
+          "end" : 34
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos a dilma teve em 2014 no rio grande do sul?",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 0,
+          "end" : 13
+        },
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 16,
+          "end" : 21
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 30,
+          "end" : 34
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 38,
+          "end" : 55
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos a dilma teve em 2014?",
+      "entities" : [
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 30,
+          "end" : 34
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos eduardo jorge teve no RS em 2014?",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 0,
+          "end" : 13
+        },
+        {
+          "entity" : "president",
+          "value" : "\"EDUARDO JORGE MARTINS ALVES SOBRINHO\"",
+          "start" : 14,
+          "end" : 27
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 36,
+          "end" : 38
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 42,
+          "end" : 46
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos o Eduardo Jorge recebeu no RS em 2014?",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 0,
+          "end" : 13
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 41,
+          "end" : 43
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 47,
+          "end" : 51
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos o Levir Fidelix recebeu em SP nas eleições de 2014?",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 0,
+          "end" : 13
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"SP\"",
+          "start" : 41,
+          "end" : 43
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 57,
+          "end" : 64
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos o Rui Pimenta recebeu em MG nas eleiçoes presidenciais de 2014?",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 0,
+          "end" : 13
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"MG\"",
+          "start" : 39,
+          "end" : 41
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 72,
+          "end" : 76
+        }
+      ]
+    },
+    {
+      "text" : "Quantos votos teve Aécio no estado de SP em 2014?",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 0,
+          "end" : 13
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"SP\"",
+          "start" : 38,
+          "end" : 40
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 44,
+          "end" : 48
+        }
+      ]
+    },
+    {
+      "text" : "Que estado votou mais no fidelix?",
+      "entities" : [
+        {
+          "entity" : "topVotingState",
+          "value" : "\"Que estado votou\"",
+          "start" : 0,
+          "end" : 16
+        },
+        {
+          "entity" : "president",
+          "value" : "\"JOSÉ LEVY FIDELIX DA CRUZ\"",
+          "start" : 25,
+          "end" : 32
+        }
+      ]
+    },
+    {
+      "text" : "Quem foi o candidato a presidencia mais votado no Amazonas",
+      "entities" : [
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 23,
+          "end" : 34
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"AM\"",
+          "start" : 50,
+          "end" : 58
+        }
+      ]
+    },
+    {
+      "text" : "Quem foi o candidato mais votado no rio de janeiro?"
+    },
+    {
+      "text" : "Quem foi o candidato mais votado para presidente no ES em 2014?",
+      "entities" : [
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 38,
+          "end" : 48
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"ES\"",
+          "start" : 52,
+          "end" : 54
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 58,
+          "end" : 62
+        }
+      ]
+    },
+    {
+      "text" : "Quem foi o candidato presidencial mais votado em Amazonas em 2014?",
+      "entities" : [
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 21,
+          "end" : 33
+        },
+        {
+          "entity" : "topVotingState",
+          "value" : "\"mais votado em\"",
+          "start" : 34,
+          "end" : 48
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"AM\"",
+          "start" : 49,
+          "end" : 57
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 61,
+          "end" : 65
+        }
+      ]
+    },
+    {
+      "text" : "Quem foi o candidato presidencial mais votado no Amazonas em 2014?",
+      "entities" : [
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 21,
+          "end" : 33
+        },
+        {
+          "entity" : "mostVotedInYearByState",
+          "value" : "\"mais votado no\"",
+          "start" : 34,
+          "end" : 48
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"AM\"",
+          "start" : 49,
+          "end" : 57
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 61,
+          "end" : 65
+        }
+      ]
+    },
+    {
+      "text" : "Quem foram as candidatas a presidente na eleiçāo de 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quem foram as candidatas\"",
+          "start" : 0,
+          "end" : 24
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 27,
+          "end" : 37
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 49,
+          "end" : 56
+        }
+      ]
+    },
+    {
+      "text" : "Quem foram as pessoas que se candidataram a presidente em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quem foram as pessoas que se candidataram\"",
+          "start" : 0,
+          "end" : 41
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 44,
+          "end" : 54
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 58,
+          "end" : 62
+        }
+      ]
+    },
+    {
+      "text" : "Quem foram os cadidatos da eleicao de 1998",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quem foram os cadidatos\"",
+          "start" : 0,
+          "end" : 23
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"1998-01-01T00:00:00.000-02:00\"",
+          "start" : 35,
+          "end" : 42
+        }
+      ]
+    },
+    {
+      "text" : "Quem foram os candidatos a governador no RS em 2014?",
+      "entities" : [
+        {
+          "entity" : "post",
+          "value" : "\"governador\"",
+          "start" : 27,
+          "end" : 37
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 41,
+          "end" : 43
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 47,
+          "end" : 51
+        }
+      ]
+    },
+    {
+      "text" : "Quem foram os candidatos a presidente em 2010 ?",
+      "entities" : [
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 27,
+          "end" : 37
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2010-01-01T00:00:00.000-02:00\"",
+          "start" : 41,
+          "end" : 45
+        }
+      ]
+    },
+    {
+      "text" : "Quem ganhou a eleicao de 2014?",
+      "entities" : [
+        {
+          "entity" : "findElectionWinner",
+          "value" : "\"Quem ganhou a eleicao\"",
+          "start" : 0,
+          "end" : 21
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 22,
+          "end" : 29
+        }
+      ]
+    },
+    {
+      "text" : "Quem recebeu o maior número de votos no rs?"
+    },
+    {
+      "text" : "Quem se candidatou a governador em 2014?",
+      "entities" : [
+        {
+          "entity" : "post",
+          "value" : "\"governador\"",
+          "start" : 21,
+          "end" : 31
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 35,
+          "end" : 39
+        }
+      ]
+    },
+    {
+      "text" : "Quem se candidatou a presidencia do brasil em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quem se candidatou\"",
+          "start" : 0,
+          "end" : 18
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 21,
+          "end" : 32
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 46,
+          "end" : 50
+        }
+      ]
+    },
+    {
+      "text" : "Quem se candidatou a presidencia em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quem se candidatou\"",
+          "start" : 0,
+          "end" : 18
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 36,
+          "end" : 40
+        }
+      ]
+    },
+    {
+      "text" : "Quem se candidatou para presidente em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"Quem se candidatou\"",
+          "start" : 0,
+          "end" : 18
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 24,
+          "end" : 34
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 38,
+          "end" : 42
+        }
+      ]
+    },
+    {
+      "text" : "Quem venceu as eleicoes de 2014 para presidente?",
+      "entities" : [
+        {
+          "entity" : "findElectionWinner",
+          "value" : "\"Quem venceu as eleicoes\"",
+          "start" : 0,
+          "end" : 23
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 24,
+          "end" : 31
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 37,
+          "end" : 47
+        }
+      ]
+    },
+    {
+      "text" : "Quem venceus as eleições presidenciais em ",
+      "entities" : [
+        {
+          "entity" : "findElectionWinner",
+          "value" : "\"Quem venceus\"",
+          "start" : 0,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "Quem venceus as eleições presidenciais em 2014?",
+      "entities" : [
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 42,
+          "end" : 46
+        }
+      ]
+    },
+    {
+      "text" : "Quero saber quantos votos a dilma teve no rs"
+    },
+    {
+      "text" : "Tudo bem",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Tudo bem\"",
+          "start" : 0,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "Tudo bom ?",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Tudo bom\"",
+          "start" : 0,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "Votos Eduardo Jorge SP 2014",
+      "entities" : [
+        {
+          "entity" : "brState",
+          "value" : "\"SP\"",
+          "start" : 20,
+          "end" : 22
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 23,
+          "end" : 27
+        }
+      ]
+    },
+    {
+      "text" : "alckmin",
+      "entities" : [
+        {
+          "entity" : "president",
+          "value" : "\"GERALDO JOSÉ RODRIGUES ALCKMIN FILHO\"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "alquimim",
+      "entities" : [
+        {
+          "entity" : "president",
+          "value" : "\"GERALDO JOSÉ RODRIGUES ALCKMIN FILHO\"",
+          "start" : 0,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "dilma rousef",
+      "entities" : [
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 0,
+          "end" : 5
+        }
+      ]
+    },
+    {
+      "text" : "dilma rusef",
+      "entities" : [
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 0,
+          "end" : 5
+        }
+      ]
+    },
+    {
+      "text" : "diuma rousseff",
+      "entities" : [
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 6,
+          "end" : 14
+        }
+      ]
+    },
+    {
+      "text" : "diuma rusef",
+      "entities" : [
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 0,
+          "end" : 11
+        }
+      ]
+    },
+    {
+      "text" : "em 1998, quem recebeu mais votos em AM",
+      "entities" : [
+        {
+          "entity" : "datetime",
+          "value" : "\"1998-01-01T00:00:00.000-02:00\"",
+          "start" : 3,
+          "end" : 7
+        },
+        {
+          "entity" : "mostVotedInYearByState",
+          "value" : "\"quem recebeu mais votos\"",
+          "start" : 9,
+          "end" : 32
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"AM\"",
+          "start" : 36,
+          "end" : 38
+        }
+      ]
+    },
+    {
+      "text" : "em qual estado a dilma recebeu mais votos em 2014 ?",
+      "entities" : [
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 17,
+          "end" : 22
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 45,
+          "end" : 49
+        }
+      ]
+    },
+    {
+      "text" : "em qual estado a dilma teve mais votos em 2010",
+      "entities" : [
+        {
+          "entity" : "topVotingState",
+          "value" : "\"em qual estado\"",
+          "start" : 0,
+          "end" : 14
+        },
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 17,
+          "end" : 22
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2010-01-01T00:00:00.000-02:00\"",
+          "start" : 42,
+          "end" : 46
+        }
+      ]
+    },
+    {
+      "text" : "oka",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Olá\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "ola",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"Olá\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    },
+    {
+      "text" : "quais foram as pessoas que concorreram a presidente em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"quais foram as pessoas que concorreram\"",
+          "start" : 0,
+          "end" : 38
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 41,
+          "end" : 51
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 55,
+          "end" : 59
+        }
+      ]
+    },
+    {
+      "text" : "quais foram as pessoas que se candidataram a presidencia em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"quais foram as pessoas que se candidataram\"",
+          "start" : 0,
+          "end" : 42
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 45,
+          "end" : 56
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 60,
+          "end" : 64
+        }
+      ]
+    },
+    {
+      "text" : "quais os candidatos a presidencia em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"quais os candidatos\"",
+          "start" : 0,
+          "end" : 19
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 22,
+          "end" : 33
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 37,
+          "end" : 41
+        }
+      ]
+    },
+    {
+      "text" : "quais os candidatos ao cargo de presidente em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"quais os candidatos\"",
+          "start" : 0,
+          "end" : 19
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 32,
+          "end" : 42
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 46,
+          "end" : 50
+        }
+      ]
+    },
+    {
+      "text" : "qual estado mais votou na dilma em 2010?",
+      "entities" : [
+        {
+          "entity" : "topVotingState",
+          "value" : "\"qual estado mais votou\"",
+          "start" : 0,
+          "end" : 22
+        },
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 26,
+          "end" : 31
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2010-01-01T00:00:00.000-02:00\"",
+          "start" : 35,
+          "end" : 39
+        }
+      ]
+    },
+    {
+      "text" : "qual estado votou mais em fidelix no ano de 1964",
+      "entities" : [
+        {
+          "entity" : "topVotingState",
+          "value" : "\"qual estado votou mais\"",
+          "start" : 0,
+          "end" : 22
+        },
+        {
+          "entity" : "president",
+          "value" : "\"JOSÉ LEVY FIDELIX DA CRUZ\"",
+          "start" : 26,
+          "end" : 33
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"1964-01-01T00:00:00.000-02:00\"",
+          "start" : 41,
+          "end" : 48
+        }
+      ]
+    },
+    {
+      "text" : "qual foi o estado mais votante em fidelix?",
+      "entities" : [
+        {
+          "entity" : "topVotingState",
+          "value" : "\"qual foi o estado mais votante\"",
+          "start" : 0,
+          "end" : 30
+        },
+        {
+          "entity" : "president",
+          "value" : "\"JOSÉ LEVY FIDELIX DA CRUZ\"",
+          "start" : 34,
+          "end" : 41
+        }
+      ]
+    },
+    {
+      "text" : "quantos votos a dilma teve em 2014 no rio grande do sul?",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 0,
+          "end" : 13
+        },
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 16,
+          "end" : 21
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 30,
+          "end" : 34
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 38,
+          "end" : 55
+        }
+      ]
+    },
+    {
+      "text" : "quantos votos a dilma teve no RS",
+      "entities" : [
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 30,
+          "end" : 32
+        }
+      ]
+    },
+    {
+      "text" : "quantos votos a dilma teve no RS em 2014",
+      "entities" : [
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 30,
+          "end" : 32
+        }
+      ]
+    },
+    {
+      "text" : "quantos votos a dilma teve no RS em 2014?",
+      "entities" : [
+        {
+          "entity" : "findCandidateVotesInAYearByNameAndState",
+          "value" : "\"Quantos votos\"",
+          "start" : 0,
+          "end" : 13
+        },
+        {
+          "entity" : "president",
+          "value" : "\"DILMA VANA ROUSSEFF\"",
+          "start" : 16,
+          "end" : 21
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 30,
+          "end" : 32
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 36,
+          "end" : 40
+        }
+      ]
+    },
+    {
+      "text" : "quantos votos o vinicius teve em 2014"
+    },
+    {
+      "text" : "quem foi eleito em 2014?",
+      "entities" : [
+        {
+          "entity" : "findElectionWinner",
+          "value" : "\"quem foi eleito\"",
+          "start" : 0,
+          "end" : 15
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 19,
+          "end" : 23
+        }
+      ]
+    },
+    {
+      "text" : "quem foi o campeao das eleicoes de presidentes em 2014?",
+      "entities" : [
+        {
+          "entity" : "findElectionWinner",
+          "value" : "\"quem foi o campeao das eleicoes\"",
+          "start" : 0,
+          "end" : 31
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 35,
+          "end" : 45
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 50,
+          "end" : 54
+        }
+      ]
+    },
+    {
+      "text" : "quem foi o candidato eleito em 2014?",
+      "entities" : [
+        {
+          "entity" : "findElectionWinner",
+          "value" : "\"quem foi o candidato eleito\"",
+          "start" : 0,
+          "end" : 27
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 31,
+          "end" : 35
+        }
+      ]
+    },
+    {
+      "text" : "quem foi o candidato mais votado no Rio grande do sul em 2006?",
+      "entities" : [
+        {
+          "entity" : "mostVotedInYearByState",
+          "value" : "\"quem foi o candidato mais votado\"",
+          "start" : 0,
+          "end" : 32
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 36,
+          "end" : 53
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2006-01-01T00:00:00.000-02:00\"",
+          "start" : 57,
+          "end" : 61
+        }
+      ]
+    },
+    {
+      "text" : "quem foi o candidato mais votado no Rio grande do sul em 2014?",
+      "entities" : [
+        {
+          "entity" : "mostVotedInYearByState",
+          "value" : "\"quem foi o candidato mais votado\"",
+          "start" : 0,
+          "end" : 32
+        },
+        {
+          "entity" : "brState",
+          "value" : "\"RS\"",
+          "start" : 36,
+          "end" : 53
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 57,
+          "end" : 61
+        }
+      ]
+    },
+    {
+      "text" : "quem foi o mais votado no rs?"
+    },
+    {
+      "text" : "quem foram os candidatos a presidente em 2014?",
+      "entities" : [
+        {
+          "entity" : "candidatesByRoleAndYear",
+          "value" : "\"quem foram os candidatos\"",
+          "start" : 0,
+          "end" : 24
+        },
+        {
+          "entity" : "post",
+          "value" : "\"presidente\"",
+          "start" : 27,
+          "end" : 37
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2014-01-01T00:00:00.000-02:00\"",
+          "start" : 41,
+          "end" : 45
+        }
+      ]
+    }
+  ]
+}
